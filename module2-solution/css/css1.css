@@ -3,6 +3,17 @@
 #a1{
   
   position: center;
+  margin-bottom:15px;
+  font-size:175%;
+}
+h1{
+	display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
 }
 body{
 	text-align:center;
@@ -242,9 +253,12 @@ p{
 }
 #d1{width:90%;
  margin-right:10px;
- margin-left:20px;}
+ margin-left:20px;
+ }
 #d2{width:90%;
- margin-right:10px;}
+ margin-right:10px;
+ margin-top:10px;}
 #d3{width:90%;
- margin-right:10px;}
+ margin-right:10px;
+ margin-top:10px;}
 </style>
